@@ -13,6 +13,7 @@ import (
 	dto "github.com/prometheus/client_model/go"
 )
 
+// dummy comment
 // Collector is a self-contained group of SQL queries and metric families to collect from a specific database. It is
 // conceptually similar to a prometheus.Collector.
 type Collector interface {
